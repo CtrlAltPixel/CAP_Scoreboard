@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/LukeT/CAP_Scoreboard/Content/PlayerList/Gameplay/System/BP_GM_Gameplay.uasset",
+				"D:/Github/LukeT/CAP_Scoreboard/Content/PlayerList/Gameplay/System/BP_GS_Gameplay.uasset",
+				"D:/Github/LukeT/CAP_Scoreboard/Content/PlayerList/Gameplay/Player/State/BP_PS_PlayerList.uasset",
+				"D:/Github/LukeT/CAP_Scoreboard/Content/PlayerList/Gameplay/HUD/UI/Scoreboard/WB_HUD_Gameplay_Scoreboard.uasset",
+				"D:/Github/LukeT/CAP_Scoreboard/Content/PlayerList/Gameplay/Unit/BP_Character_Unit.uasset",
+				"D:/Github/LukeT/CAP_Scoreboard/Content/PlayerList/Gameplay/HUD/UI/Scoreboard/WB_HUD_Scoreboard_PlayerSlot.uasset",
+				"D:/Github/LukeT/CAP_Scoreboard/Content/PlayerList/Blueprints/Team/BP_AC_Team.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_Scoreboard/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_Scoreboard/Content/Scoreboard/Player/BP_TopDownGameMode.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_Scoreboard/Content/PlayerList/Characters/BP_Char_PlayerList.uasset",
